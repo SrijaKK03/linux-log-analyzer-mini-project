@@ -1,0 +1,4 @@
+2025-06-13 14:02:33 ERROR Something failed in module A
+2025-06-13 14:45:10 WARNING Memory usage is high
+2025-06-13 15:12:50 ERROR Disk read failure
+2025-06-13 16:33:20 INFO System running smoothly
